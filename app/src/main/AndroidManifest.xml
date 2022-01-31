@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyectofinalbimerso">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="pantalla inicio"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+
+        <activity
+            android:name=".Tareas.listadatos"
+            android:exported="false" />
+        <activity
+            android:name=".Menus"
+            android:exported="false" />
+        <activity
+            android:name=".inicio2"
+            android:exported="false" />
+        <activity
+            android:name=".inicio"
+            android:exported="false" />
+        <activity
+            android:name=".Trabajos.Trabajo"
+            android:exported="false" />
+        <activity
+            android:name=".Tareas.Tareas"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

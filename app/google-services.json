@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984909610349",
+    "project_id": "proyectobimerso",
+    "storage_bucket": "proyectobimerso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984909610349:android:eb0fcd0e9b60f456312e64",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinalbimerso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984909610349-3v7v2fkek0nt8i7lhbvqqnjrrs85h566.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxoz-f_Fk-W6vzqzAUVBXGvKf4RPKaUJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984909610349-3v7v2fkek0nt8i7lhbvqqnjrrs85h566.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
